@@ -17,4 +17,4 @@ Build and run:
 docker build -t getting-started . 
 docker run 127.0.0.0:3000:3000 getting-started
 ```
-Open `http://localhost:8088` in your browser.
+Open `http://localhost:3000` in your browser.
